@@ -1,7 +1,5 @@
 # python-codes
 
+fork and add your code for hacktober fest
 
-add your code for hacktober fest
-fork aand add your file
-
-star the repo
+star the repo pls
